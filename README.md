@@ -2,6 +2,14 @@
 
 A browser-based, retro-style virtual pet game inspired by classic 90s Tamagotchis. Built with React, TypeScript, and Tailwind CSS, featuring a custom CSS pixel art engine, offline progress tracking, and an AI-powered chat system!
 
+## 🚀 Live Demo
+
+https://darkplanet.netlify.app/
+
+---https://tamagotchipet.netlify.app/
+
+---
+
 ## ✨ Features
 
 * **Real-time Game Loop:** Your pet's stats (Fullness, Happiness, Energy) decay over time. Neglecting them leads to care mistakes and health loss!
