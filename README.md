@@ -19,7 +19,7 @@ A browser-based, retro-style virtual pet game inspired by classic 90s Tamagotchi
 * **Styling:** Tailwind CSS
 * **Animations:** Motion (Framer Motion)
 * **Icons:** Lucide React
-* **AI Integration:** `@google/genai` (Gemini 3 Flash)
+* **Chat API:** @google/genai (Gemini)
 
 ## 🚀 Getting Started
 
