@@ -1,0 +1,5 @@
+{
+  "name": "Tamagotchi Web",
+  "description": "A virtual pet game built with React and TypeScript.",
+  "requestFramePermissions": []
+}
