@@ -4,7 +4,7 @@ A browser-based, retro-style virtual pet game inspired by classic 90s Tamagotchi
 
 ## 🚀 Live Demo
 
----https://tamagotchipet.netlify.app/
+https://tamagotchipet.netlify.app/
 
 ---
 
